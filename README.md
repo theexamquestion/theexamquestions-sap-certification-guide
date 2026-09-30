@@ -1,2 +1,11 @@
-# theexamquestions-sap-certification-guide
-A resource hub for SAP certification preparation, exam guides, practice questions, and learning resources.
+# SAP Certification Guide
+A practical guide to SAP certification exams, preparation,
+practice questions, exam formats, and study resources.
+
+## SAP Certification Preparation
+
+- SAP certification exam guides
+- SAP practice questions
+- SAP exam preparation
+- SAP certification resources
+- SAP learning resources
