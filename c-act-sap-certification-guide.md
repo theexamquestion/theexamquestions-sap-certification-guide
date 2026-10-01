@@ -39,7 +39,7 @@ Before the exam, check that you have:
 ## Using practice questions
 Treat practice questions as one part of a broader study plan. After each question, read the explanation and find the concept behind the correct answer. Don't memorize the same questions over and over. Use practice sessions to find knowledge gaps and decide which topics need more revision. Practice questions show you the different question formats and test how well you understand the concepts the exam covers. When you use them, work out why an answer is correct instead of just memorizing it.
 
-For more C_ACT preparation resources and practice questions, visit https://theexamquestions.com/course/c-act-sap-exam-questions 
+For more <a href="https://theexamquestions.com/course/c-act-sap-exam-questions ">C_ACT preparation resources and practice questions</a>, visit 
 ## FAQ
 
 ### What is the C_ACT SAP certification?
