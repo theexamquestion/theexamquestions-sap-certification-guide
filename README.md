@@ -5,7 +5,7 @@ practice questions, exam formats, and study resources.
 ## SAP Certification Preparation
 
 - SAP certification exam guides
-- SAP practice questions
+- <a href="https://theexamquestions.com/">SAP practice questions</a>
 - SAP exam preparation
 - SAP certification resources
 - SAP learning resources
